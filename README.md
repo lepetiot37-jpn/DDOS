@@ -14,9 +14,9 @@ Methods
 - TCP (Transmission Control Protocol)
 
 Usage
-1. Clone the repository: `git clone https://github.com/lepetiot37-jpn/DDos_IP.git`
+1. Clone the repository: `git clone https://github.com/lepetiot37-jpn/DDOS.git`
 2. Navigate to the directory: `cd DDos_IP`
-3. Run the script: `python DDos_IP.py`
+3. Run the script: `python DDOS.py`
 4. Follow the prompts to enter the target IP, port, and method (UDP or TCP)
 
 Warning
@@ -38,8 +38,8 @@ Requirements
 - `threading` library
 
 Installation
-1. Clone the repository: `git clone https://github.com/lepetiot37-jpn/DDos_IP.git`
-2. Navigate to the directory: `cd DDos_IP`
+1. Clone the repository: `git clone https://github.com/lepetiot37-jpn/DDOS.git`
+2. Navigate to the directory: `cd DDOS`
 
 Example Use Cases
 - Testing network security
