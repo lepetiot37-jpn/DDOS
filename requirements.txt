@@ -1,0 +1,15 @@
+# No external libraries are required
+# The following libraries are included in the Python standard library:
+# - socket
+# - random
+# - threading
+# - time
+# - os
+# - sys
+# - struct
+# - codecs
+# - urllib.request
+# - re
+
+# However, if you want to specify the supported Python versions explicitly:
+python >= 3.6
